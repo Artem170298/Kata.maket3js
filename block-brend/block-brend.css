@@ -1,0 +1,11 @@
+.block-brend {
+    min-width: 224px;
+    background-color: #FFFFFF;
+    width: auto;
+    height: 72px;
+    border: 1px solid #EAEAEA;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
