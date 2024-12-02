@@ -1,3 +1,7 @@
+@import url('__icon/read-more__icon.css');
+@import url('__icon-img/read-more__icon-img.css');
+@import url('__text-button/read-more__text-button.css');
+
 .read-more {
     position: relative;
     width: auto;

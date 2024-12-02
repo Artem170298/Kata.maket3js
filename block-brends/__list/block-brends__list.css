@@ -1,6 +1,6 @@
 .block-brends__list {
     display: grid;
-    padding: 0;
+    padding-right: 2px;
     margin: 0;
     white-space: wrap;
     grid-template-columns: repeat(3, 1fr);

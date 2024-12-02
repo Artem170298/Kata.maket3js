@@ -1,5 +1,5 @@
 .swiper-slide{
-    width: 240px !important;
+    width: auto !important;
     height: 72px;
     display: flex !important;
     justify-content: space-around;
@@ -7,6 +7,6 @@
     flex-shrink: 0;
     position: relative;
     transition-property: transform;
-    border: 1px solid #EAEAEA;
+    
     border-radius: 6px;
 }
