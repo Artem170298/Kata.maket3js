@@ -1,5 +1,6 @@
 @import url('block-brend/block-brend.css');
-@import url('block-brends/block-brends-style.css');
+@import url('block-brends/block-brends.css');
+@import url('block-brends/--open/block-brends--open.css');
 @import url('header/header.css');
 @import url('read-more/read-more.css');
 
